@@ -1,0 +1,15 @@
+img{
+    width: 100px;
+    height: 175px;
+   
+}
+body{
+    text-align: center;
+    zoom: 95%;
+}
+.card{
+    margin-left: 33%;
+}
+.card-header {
+    color: cornflowerblue;
+}
